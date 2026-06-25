@@ -26,6 +26,11 @@ export function AppSidebar() {
                   <NavLink to="/">Dashboard</NavLink>
                 </SidebarMenuButton>
               </SidebarMenuItem>
+              <SidebarMenuItem>
+                <SidebarMenuButton asChild>
+                  <NavLink to="/tables">tables</NavLink>
+                </SidebarMenuButton>
+              </SidebarMenuItem>
 
               <SidebarMenuItem>
                 <SidebarMenuButton asChild>

@@ -4,7 +4,7 @@ import { Dashboard } from "@/page/Dashboard";
 import { Menu } from "@/page/Menu";
 import { Orders } from "@/page/Orders";
 import { Setting } from "@/page/Setting";
-import { Tables } from "@/page/Tables";
+import  Tables  from "@/page/Tables";
 import { Route, Routes } from "react-router-dom";
 
 export default function RouterApp() {
