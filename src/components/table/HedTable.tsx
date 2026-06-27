@@ -16,7 +16,7 @@ export default function HedTable(
 description,
 actions,} : Section) {
   return (
-    <div className="flex items-center justify-between">
+    <div className="flex items-center justify-between mb-6">
       <div className="flex flex-col gap-2 text-black">
         <h2 className="text-4xl">{title}</h2>
         <p className="text-2xl">{description}</p>

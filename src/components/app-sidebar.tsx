@@ -40,12 +40,6 @@ export function AppSidebar() {
 
               <SidebarMenuItem>
                 <SidebarMenuButton asChild>
-                  <NavLink to="/setting">Setting</NavLink>
-                </SidebarMenuButton>
-              </SidebarMenuItem>
-
-              <SidebarMenuItem>
-                <SidebarMenuButton asChild>
                   <NavLink to="/menu">Menu</NavLink>
                 </SidebarMenuButton>
               </SidebarMenuItem>
